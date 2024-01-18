@@ -61,4 +61,4 @@
 ```
 
 ## 联系作者
-<img src="qrcode.jpg" width="300" align=center alt="微信：wuhe52"/>
+<img src="qrcode.jpg" width="300" align=center alt="微信：wuhe52"/>Forking for Acme Corp
